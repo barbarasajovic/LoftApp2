@@ -20,9 +20,7 @@ namespace LoftApp2.Models
         public int AddedBy { get; set; }
 
         public int BoughtBy { get; set; }
-
-
-
+        
 
         internal int Persist()
         {
